@@ -1,1 +1,1 @@
-logstash:7.17.11 registry.cn-hangzhou.aliyuncs.com/justin_yang/logstash:7.17.11
+kibana:7.17.11 registry.cn-hangzhou.aliyuncs.com/justin_yang/kibana:7.17.11
