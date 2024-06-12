@@ -1,1 +1,1 @@
-alpine:3.20.0 registry.cn-hangzhou.aliyuncs.com/justin_yang/alpine:3.20.0
+mysql:5.7.37 registry.cn-hangzhou.aliyuncs.com/justin_yang/mysql:5.7.37
