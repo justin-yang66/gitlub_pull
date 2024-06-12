@@ -1,1 +1,1 @@
-elastic/filebeat:7.17.11 registry.cn-hangzhou.aliyuncs.com/justin_yang/filebeat:7.17.11
+rabbitmq:3.7.5 registry.cn-hangzhou.aliyuncs.com/justin_yang/filebeat:7.17.11
