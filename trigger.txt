@@ -1,1 +1,1 @@
-centos:centos7.9.2009 registry.cn-hangzhou.aliyuncs.com/justin_yang/centos:centos7.9.2009
+node:22.3.0 registry.cn-hangzhou.aliyuncs.com/justin_yang/node:22.3.0
