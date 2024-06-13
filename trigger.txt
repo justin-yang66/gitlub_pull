@@ -1,1 +1,1 @@
-rabbitmq:3.7.5 registry.cn-hangzhou.aliyuncs.com/justin_yang/filebeat:7.17.11
+node:16.15.1 registry.cn-hangzhou.aliyuncs.com/justin_yang/node:16.15.1
