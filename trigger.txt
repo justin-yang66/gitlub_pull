@@ -1,1 +1,1 @@
-node:16.15.1 registry.cn-hangzhou.aliyuncs.com/justin_yang/node:16.15.1
+centos:centos7.9.2009 registry.cn-hangzhou.aliyuncs.com/justin_yang/centos:centos7.9.2009
