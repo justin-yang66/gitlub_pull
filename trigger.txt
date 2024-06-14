@@ -1,1 +1,1 @@
-java:6-jdk registry.cn-hangzhou.aliyuncs.com/justin_yang/java:6-jdk
+wordpress:php8.3 registry.cn-hangzhou.aliyuncs.com/justin_yang/wordpress:php8.3
