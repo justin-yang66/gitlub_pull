@@ -1,1 +1,1 @@
-java:6 registry.cn-hangzhou.aliyuncs.com/justin_yang/java:6
+ubuntu/jre:17-22.04_44 registry.cn-hangzhou.aliyuncs.com/justin_yang/ubantu_jre:17-22.04_44
