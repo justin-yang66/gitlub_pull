@@ -1,1 +1,1 @@
-wordpress:php8.3 registry.cn-hangzhou.aliyuncs.com/justin_yang/wordpress:php8.3
+newrelic/newrelic-prometheus-configurator:1.17.0 registry.cn-hangzhou.aliyuncs.com/justin_yang/prometheus:1.17.0
