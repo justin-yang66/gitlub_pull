@@ -1,1 +1,1 @@
-newrelic/newrelic-prometheus-configurator:1.17.0 registry.cn-hangzhou.aliyuncs.com/justin_yang/prometheus:1.17.0
+redis:5.0.7 registry.cn-hangzhou.aliyuncs.com/justin_yang/redis:5.0.7
