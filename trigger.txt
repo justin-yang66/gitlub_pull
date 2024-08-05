@@ -1,1 +1,1 @@
-rancher/mirrored-library-busybox registry.cn-hangzhou.aliyuncs.com/justin_yang/busy-box
+fluent/fluent-bit:2.0.6 registry.cn-hangzhou.aliyuncs.com/justin_yang/fluent-bit:2.0.6
