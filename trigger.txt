@@ -1,1 +1,1 @@
-rancher/rancher:v2.10-0c7deadb8045d4a426c1fdd32cd7d0b6a1af09d3-head-amd64 registry.cn-hangzhou.aliyuncs.com/justin_yang/rancher:2.1
+rancher/rancher-agent:v2.8.2 registry.cn-hangzhou.aliyuncs.com/justin_yang/rancher:2.8.2
