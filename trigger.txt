@@ -1,1 +1,1 @@
-arcts/keepalived:1.2.2 registry.cn-hangzhou.aliyuncs.com/justin_yang/arcts_keepalived:1.2.2
+calico/kube-controllers:v3.27.3 registry.cn-hangzhou.aliyuncs.com/justin_yang/kube-controllers:v3.27.3
