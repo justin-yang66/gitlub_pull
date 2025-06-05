@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.27.3 registry.cn-hangzhou.aliyuncs.com/justin_yang/kube-controllers:v3.27.3
+rancher/nginx-ingress-controller:nginx-1.11.5-rancher1  registry.cn-hangzhou.aliyuncs.com/justin_yang/nginx-ingress-controller:v1.11.5
