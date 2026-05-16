@@ -1,1 +1,1 @@
-rabbitmq:3.5.1  registry.cn-hangzhou.aliyuncs.com/justin_yang/rabbitmq:3.5.1
+rabbitmq:management  registry.cn-hangzhou.aliyuncs.com/justin_yang/rabbitmq:management
