@@ -1,1 +1,1 @@
-rancher/nginx-ingress-controller:nginx-1.11.5-rancher1  registry.cn-hangzhou.aliyuncs.com/justin_yang/nginx-ingress-controller:v1.11.5
+rabbitmq:3.5.0  registry.cn-hangzhou.aliyuncs.com/justin_yang/rabbitmq:3.5.0
