@@ -1,1 +1,1 @@
-rabbitmq:management  registry.cn-hangzhou.aliyuncs.com/justin_yang/rabbitmq:management
+ruoyi/ruoyi-server:latest  registry.cn-hangzhou.aliyuncs.com/justin_yang/ruoyi-server:latest
